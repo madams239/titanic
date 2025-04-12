@@ -3,8 +3,6 @@
 
 A complete walkthrough using the Titanic dataset from [Kaggle](https://www.kaggle.com/competitions/titanic) to predict passenger survival. This project covers everything from exploratory data analysis to machine learning model training and submission creation.
 
----
-
 ## 📁 Project Structure
 
 ```
@@ -89,7 +87,6 @@ A submission CSV (`titanic_submission.csv`) is generated using predictions on th
 Michael Adams  
 [@DataGuyMichael]([https://www.linkedin.com/in/michaeladamsds](https://linktr.ee/thedataguymichael))
 
----
 
 ## 📜 License
 
