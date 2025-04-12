@@ -1,5 +1,3 @@
-Here you go — the entire README written in pure Markdown, ready to drop into a `README.md` file:
-
 ```markdown
 # 🛳️ Titanic Survival Prediction
 
@@ -97,5 +95,3 @@ Michael Adams
 
 This project is licensed under the MIT License.
 ```
-
-Would you like me to generate a visual badge header (e.g., Python version, License, etc.) or a screenshot/graph preview to go with the repo?
