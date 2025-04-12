@@ -75,6 +75,4 @@ Michael Adams
 [LinkedIn]([https://www.linkedin.com/in/michaeladamsds](https://linktr.ee/thedataguymichael))
 ```
 
----
 
-This version is fully compatible with GitHub’s Markdown renderer — clean, professional, and fully functional.
