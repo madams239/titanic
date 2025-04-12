@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 ## Author
 
 Michael Adams  
-[LinkedIn]([https://www.linkedin.com/in/michaeladamsds](https://linktr.ee/thedataguymichael))
+[LinkedIn]((https://linktr.ee/thedataguymichael))
 ```
 
 
