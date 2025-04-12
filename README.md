@@ -1,8 +1,3 @@
-You're absolutely right — let me provide a **clean, GitHub-optimized `README.md`** that follows standard Markdown conventions (no emojis in headers, clean formatting, proper syntax for code blocks, and consistent spacing). Here's a cleaned-up version:
-
----
-
-```markdown
 # Titanic Survival Prediction
 
 This project is a complete walkthrough for solving the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic), where the goal is to predict whether a passenger survived or not based on features like age, sex, class, and more.
